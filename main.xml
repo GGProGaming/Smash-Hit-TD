@@ -1,1 +1,22 @@
-<scene version='0.6.0' shadowVolume='200 50 200'><environment template='sunset'/><script file='main.lua'/><script file='sandbox.lua'/><voxbox pos='-25 0 -25' size='500 1 500'/><voxbox pos='-1 0.1 -5' size='20 20 2' material='wood' color='0.7 0.5 0.3'/><spawnpoint pos='0 1 0' rot='0 180 0'/></scene>
+<scene id_="1529113728" open_="true" version="0.9.5" shadowVolume="200 50 200">
+	<environment id_="965404224" template="sunset"/>
+	<script id_="1059191936" file="main.lua"/>
+	<script id_="1072103296" file="sandbox.lua"/>
+	<voxbox id_="1831318656" pos="-25.0 0.0 -99.70001" rot="0.0 0.0 0.0" size="176 1 2014"/>
+	<spawnpoint id_="1786161664" pos="-15.7 0.1 94.4" rot="0.0 -180.0 0.0"/>
+	<script id_="846383552" file="MOD/main.lua"/>
+	<script id_="738242560" file="MOD/Smash Hit.lua"/>
+	<group id_="566265600" open_="true" name="level1">
+		<voxbox id_="1408126848" pos="-24.9 0.1 80.0" rot="0.0 0.0 0.0" size="50 12 78"/>
+		<voxbox id_="1133973120" pos="-12.1 0.1 80.5" rot="0.0 -90.0 0.0" size="50 12 78"/>
+		<voxbox id_="15270820" pos="-20.5 0.1 75.0" rot="0.0 -90.0 0.0" size="50 28 31"/>
+		<voxbox id_="1485857408" pos="-7.3 0.1 65.0" rot="0.0 -90.0 0.0" size="50 21 29"/>
+		<voxbox id_="1542418304" pos="-23.8 1.3 81.0" rot="0.0 -90.0 0.0" size="50 65 42"/>
+		<voxbox id_="1443125248" pos="-22.4 0.1 70.0" rot="0.0 -90.0 0.0" size="6 65 103"/>
+		<voxbox id_="338514112" pos="0.6 0.1 70.0" rot="0.0 -90.0 0.0" size="6 65 103"/>
+		<voxbox id_="318196704" pos="-14.6 7.8 82.3" rot="0.0 -90.0 0.0" size="6 51 103"/>
+		<voxbox id_="374167872" pos="-24.0 1.3 70.6" rot="0.0 0.0 0.0" size="6 77 104"/>
+	</group>
+	<layers/>
+</scene>
+
